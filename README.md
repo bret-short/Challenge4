@@ -16,3 +16,4 @@ Here is a few screenshots of the quiz.
 
 ![Screen Shot 2020-11-22 at 10 12 25 PM](https://user-images.githubusercontent.com/73445178/99931254-0bc3b000-2d11-11eb-9ee2-76a0143a2f5e.png)
 
+![Screen Shot 2020-11-22 at 10 26 01 PM](https://user-images.githubusercontent.com/73445178/99931443-c489ef00-2d11-11eb-9c24-394b05e0ba2d.png)
