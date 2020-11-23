@@ -13,6 +13,9 @@
     font-size: 20px;
     color: white;
 }
+#startTime:hover {
+    background-color: teal;
+}
 #questionsDiv {
     margin: 30px;
 }
@@ -34,7 +37,9 @@
     text-decoration: none;
 }
 
-
+#goBack:hover {
+    background-color: teal;
+}
 
 #clear {
     background-color: #002868;
@@ -45,6 +50,9 @@
     top: 30%;
     right: 5%;
     text-align: center;
+}
+#clear:hover {
+    background-color: teal;
 }
 
 button {
@@ -84,6 +92,9 @@ li {
     width: 80%;
     font-size: 18px;
     color: white;
+}
+li:hover {
+    background-color: teal;
 }
 
 #createDiv {
