@@ -12,6 +12,8 @@ Once the game is over your score is displayed. Your score is equal to how fast y
 
 You are then prompted to input your initial and given a chance to explore the "HighScores" page where your scores will be saved and displayed. 
 
+The application is deployed at this link: https://bret-short.github.io/Challenge4/
+
 Here is a few screenshots of the quiz. 
 
 ![Screen Shot 2020-11-22 at 10 12 25 PM](https://user-images.githubusercontent.com/73445178/99931254-0bc3b000-2d11-11eb-9ee2-76a0143a2f5e.png)
