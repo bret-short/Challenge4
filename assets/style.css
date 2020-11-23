@@ -71,7 +71,9 @@ textarea {
     font-size: 20px;
     color: white;
 }
-
+#Submit:hover {
+    background-color: teal;
+}
 label {
     margin-right: 10px;
 }
