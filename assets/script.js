@@ -36,7 +36,6 @@ var questions = [
 var score = 0;
 var questionIndex = 0;
 
-//start working code
 //declared variables
 var currentTime = document.querySelector("#currentTime");
 var timer = document.querySelector("#startTime");
